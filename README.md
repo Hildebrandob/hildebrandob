@@ -8,6 +8,10 @@ During My cloud Trainee ship, I have familiarized with AWS structure and IaC on 
 
 ## Projects
 ### Create IAM users, roles and gorup in AWS console and terraform
+
+![Screenshot 2025-01-16 003936](https://github.com/user-attachments/assets/a044cb53-291d-4b2a-b2be-a9f2fed56cf4)
+
+
 - [terraform repository](https://github.com/Hildebrandob/IAM-project)
 - [Medium article Project Documentation Identity and access management](https://medium.com/@brandi_lon/project-documentation-identity-and-access-management-1c758f92318b)
 
