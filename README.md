@@ -16,8 +16,12 @@ For this Project we will see how to create IAM users, groups, policies and how t
 
 ![Screenshot 2025-01-16 003936](https://github.com/user-attachments/assets/a044cb53-291d-4b2a-b2be-a9f2fed56cf4)
 
+### Next.js portfolio deployed on AWS cloudfront
 
+In this project we will need to deploy the portfolio website for James smith the requirements for the infrstructure are:
+Highly Available, Scalable, Cost-Effective and Fast Loading
 
+![image](https://github.com/user-attachments/assets/bdf216ab-d660-4422-b7a4-33b22f11eafd)
 
 <!--
 **Hildebrandob/hildebrandob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
