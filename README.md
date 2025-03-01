@@ -8,7 +8,8 @@ During My cloud Trainee ship, I have familiarized with AWS structure and IaC on 
 
 # Projects
 
-## AWS migration structure
+## AWS migration structure on cdk
+
 - [github repo](https://github.com/Hildebrandob/migration_AWS)
 - [medium post migration infrastructure](https://medium.com/@brandi_lon/aws-migration-infrastructure-b9b1ba69b63a)
 
@@ -18,7 +19,6 @@ During My cloud Trainee ship, I have familiarized with AWS structure and IaC on 
 - [medium post ci/cd function](https://medium.com/@brandi_lon/ci-cd-for-lambda-function-8720b298ca40)
 
 ## Create IAM users, roles and gorup in AWS console and terraform
-
 
 - [terraform repository](https://github.com/Hildebrandob/IAM-project)
 - [Medium article Project Documentation Identity and access management](https://medium.com/@brandi_lon/project-documentation-identity-and-access-management-1c758f92318b)
